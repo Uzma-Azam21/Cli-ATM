@@ -1,6 +1,6 @@
 {
   "name": "@uzmaazam/cli-atm",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A command-line interface ATM application built with JavaScript for managing banking transactions.",
   "main": "index.js",
   "type": "module",
